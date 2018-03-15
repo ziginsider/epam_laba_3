@@ -18,5 +18,10 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: I'm DEVELOP branch 3 !");
         Log.d(TAG, "onCreate: I'm DEVELOP branch 4 !");
         Log.d(TAG, "onCreate: I'm DEVELOP branch 5 !");
+        Log.d(TAG, "onCreate: I'm FEATURE branch 1 !");
+        Log.d(TAG, "onCreate: I'm FEATURE branch 2 !");
+        Log.d(TAG, "onCreate: I'm FEATURE branch 3 !");
+        Log.d(TAG, "onCreate: I'm FEATURE branch 4 !");
+        Log.d(TAG, "onCreate: I'm FEATURE branch 5 !");
     }
 }
